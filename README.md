@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @1526147838
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python,php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align='right' src='http://sukasuka-anime.com/core_sys/images/contents/00000017/block/00000060/00000047.png?1684117971' width='128px'></img>
+![Alphaply](https://github-readme-stats.vercel.app/api?username=alphaply&show_icons=true&theme=transparent)
 
-<!---
-1526147838/1526147838 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 目前学习方向：人工智障
+### 学习目标：运用python去解决生活实际问题
+### 个人博客：http://blog.a152.top
