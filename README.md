@@ -2,7 +2,7 @@
 ![Alphaply](https://github-readme-stats.vercel.app/api?username=alphaply&show_icons=true&theme=transparent)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaply&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaply&langs_count=8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 目前学习方向：人工智障
 ### 学习目标：运用python去解决生活实际问题
